@@ -1,0 +1,19 @@
+var food = "Corn Bread"
+
+isDelicious = true
+
+food = "warm butter"
+
+var num2 = 12
+
+var num7 = 17
+
+num7 / num2
+
+var quotient = 1.41667
+
+var songs = ["Don't Worry Be Happy", "Somewhere Over the Rainbow", "Walk the Line"]
+
+songs.shift
+
+food.length
