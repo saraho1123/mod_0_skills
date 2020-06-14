@@ -10,6 +10,6 @@
 ***Methods***
 
     * changeName (new string)
-    * clockIn (atWork = true)
+    * clockIn (isWorking = true)
     * birthday (age +1)
     * receiveTrainings ( .push strings to array)

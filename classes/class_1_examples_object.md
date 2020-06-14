@@ -10,6 +10,6 @@
 ***Methods***
 
     * changeName: name = "Jaylee Harris"
-    * clockIn: atWork = true
+    * clockIn: isWorking = true
     * birthday: age + 1 = 21
     * receiveTrainings: learnedJobs = ["bussing tables", "seating customers", "doing dishes", "waitingTables", "servingDrinks"]
