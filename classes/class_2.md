@@ -12,4 +12,4 @@
     * moveSection (new string)
     * joinTables (new string)
     * addChairs (numOfSeats + 4)
-    * seatCustomers (occupied = true)
+    * isOccupied (occupied = true)
