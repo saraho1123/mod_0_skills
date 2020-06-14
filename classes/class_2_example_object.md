@@ -12,4 +12,4 @@
     * moveSection: "Front Left"
     * joinTables: "rectangle"
     * addChairs: numOfSeats + 4 = 8
-    * seatCustomers: occuppied = true
+    * isOccupied: occupied = true
