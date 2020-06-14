@@ -3,13 +3,13 @@
 ***Attributes***
 
     * name (sting)
-    * atWork (boolean)
+    * isWorking (boolean)
     * age (integer)
     * learnedJobs (array)
 
 ***Methods***
 
     * changeName (new string)
-    * isWorking (atWork = true)
+    * clockIn (atWork = true)
     * birthday (age +1)
     * receiveTrainings ( .push strings to array)
